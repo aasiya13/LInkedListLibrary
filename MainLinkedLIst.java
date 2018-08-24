@@ -5,7 +5,7 @@ class MainLinkedLIst{
 		l1.add(12);
 		l1.add(15);
 		l1.displayAll();
-		l1.displayAt(5);
-		
+		l1.deleteAt(0);
+		l1.displayAll();
 	}
 }
